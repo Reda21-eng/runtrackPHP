@@ -14,4 +14,5 @@ echo $myBool;
 
 $myBool="false";
 echo $myBool;
+?>
 
