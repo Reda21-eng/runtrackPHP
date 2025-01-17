@@ -7,11 +7,11 @@ for ($i = 1 ; $i <= 1337 ; $i++){
     echo "<br> <br\>";
  }
  
- else {
+   else {
     echo"<br>$i<br\>";
  };
 }
-?>
+
 
 
    
